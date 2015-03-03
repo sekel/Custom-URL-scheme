@@ -13,7 +13,6 @@
 
   <license>MIT</license>
 
-  <preference name="URL_SCHEME" />
 
   <engines>
     <engine name="cordova" version=">=3.0.0"/>
